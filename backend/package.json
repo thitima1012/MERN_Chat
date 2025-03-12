@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon ./src/index.js",
+    "start": "node ./src/index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Thitima",
+  "license": "ISC",
+  "description": "This is abackend project for MERN SE CHAT"
+}
